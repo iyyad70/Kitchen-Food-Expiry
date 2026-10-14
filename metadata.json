@@ -1,0 +1,6 @@
+{
+  "name": "Smart Pantry & Expiry Tracker",
+  "description": "Smart Pantry & Expiry Tracker capstone application with mobile scanner, Open Food Facts barcode lookup, food waste analytics dashboard, and Laragon/MySQL setup guide.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
